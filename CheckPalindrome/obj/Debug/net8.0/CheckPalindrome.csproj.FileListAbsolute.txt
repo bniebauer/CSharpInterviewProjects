@@ -1,0 +1,14 @@
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/bin/Debug/net8.0/CheckPalindrome
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/bin/Debug/net8.0/CheckPalindrome.deps.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/bin/Debug/net8.0/CheckPalindrome.runtimeconfig.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/bin/Debug/net8.0/CheckPalindrome.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/bin/Debug/net8.0/CheckPalindrome.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.AssemblyInfoInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.AssemblyInfo.cs
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.csproj.CoreCompileInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/refint/CheckPalindrome.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/CheckPalindrome.genruntimeconfig.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/CheckPalindrome/obj/Debug/net8.0/ref/CheckPalindrome.dll

@@ -1,0 +1,15 @@
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/bin/Debug/net8.0/Fibonacci
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/bin/Debug/net8.0/Fibonacci.deps.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/bin/Debug/net8.0/Fibonacci.runtimeconfig.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/bin/Debug/net8.0/Fibonacci.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/bin/Debug/net8.0/Fibonacci.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfo.cs
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.sourcelink.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/refint/Fibonacci.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/Fibonacci.genruntimeconfig.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/Fibonacci/obj/Debug/net8.0/ref/Fibonacci.dll

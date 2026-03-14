@@ -1,0 +1,15 @@
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/bin/Debug/net8.0/FactorialFinder
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/bin/Debug/net8.0/FactorialFinder.deps.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/bin/Debug/net8.0/FactorialFinder.runtimeconfig.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/bin/Debug/net8.0/FactorialFinder.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/bin/Debug/net8.0/FactorialFinder.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.AssemblyInfoInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.AssemblyInfo.cs
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.csproj.CoreCompileInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.sourcelink.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/refint/FactorialFinder.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/FactorialFinder.genruntimeconfig.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/obj/Debug/net8.0/ref/FactorialFinder.dll

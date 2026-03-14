@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/oa0Q9gb7U=",
+  "success": true,
+  "projectFilePath": "/Users/brentonniebauer/Projects/CSharp-Interview-Projects/FactorialFinder/FactorialFinder.csproj",
+  "expectedPackageFiles": [
+    "/Users/brentonniebauer/.nuget/packages/system.commandline/2.0.5/system.commandline.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

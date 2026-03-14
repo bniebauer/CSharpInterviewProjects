@@ -1,0 +1,15 @@
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/bin/Debug/net8.0/PrimeNumber
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/bin/Debug/net8.0/PrimeNumber.deps.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/bin/Debug/net8.0/PrimeNumber.runtimeconfig.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/bin/Debug/net8.0/PrimeNumber.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/bin/Debug/net8.0/PrimeNumber.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.AssemblyInfo.cs
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.sourcelink.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/refint/PrimeNumber.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/PrimeNumber.genruntimeconfig.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/PrimeNumber/obj/Debug/net8.0/ref/PrimeNumber.dll

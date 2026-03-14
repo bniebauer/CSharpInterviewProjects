@@ -1,0 +1,15 @@
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/bin/Debug/net8.0/LargestNumberFinder
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/bin/Debug/net8.0/LargestNumberFinder.deps.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/bin/Debug/net8.0/LargestNumberFinder.runtimeconfig.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/bin/Debug/net8.0/LargestNumberFinder.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/bin/Debug/net8.0/LargestNumberFinder.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.AssemblyInfoInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.AssemblyInfo.cs
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.csproj.CoreCompileInputs.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.sourcelink.json
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/refint/LargestNumberFinder.dll
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.pdb
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/LargestNumberFinder.genruntimeconfig.cache
+/Users/brentonniebauer/Projects/CSharp-Interview-Projects/LargestNumberFinder/obj/Debug/net8.0/ref/LargestNumberFinder.dll
